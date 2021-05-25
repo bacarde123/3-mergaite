@@ -1,4 +1,4 @@
-NOTES
+NOTES.md
 # Procesas
 
 - [x] pradine failu struktura:
