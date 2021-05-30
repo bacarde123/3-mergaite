@@ -7,16 +7,34 @@ height: 50px;
 }
 nav{
 float: right;
+margin-top: 10px;
 }
 
 a {
+    font-size: 20px;
+    line-height: 20px;
+    line-height: 24px;
+    padding: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    text-decoration: none;
+    color:  #9E9E9E;
+    float: left;
+    border: 5px solid transparent;
 
 }
+
+a:last-of-type{
+    border-color: #9E9E9E;
+    margin-left: 30px;
+}
+
 header {
     display: inline-block;
     width: 800px;
     margin-left: calc((100% - 800px) / 2);
-    margin-top: 20px;    
+    margin-top: 20px;
+      
     
 }
 main {
